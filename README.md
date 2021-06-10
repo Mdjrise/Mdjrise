@@ -1,4 +1,5 @@
-# Hi there 👋, Mam Demba Jobarteh
+# Hi there 👋🏾😊 <br>
+I'm Mam Demba Jobarteh
 
 ![Designs and Development](https://github.com/Mdjrise/Mdjrise/blob/main/banner.jpg)
 

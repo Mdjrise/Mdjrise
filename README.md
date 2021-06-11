@@ -3,7 +3,7 @@ I'm Mam Demba Jobarteh
 
 ![Designs and Development](https://github.com/Mdjrise/Mdjrise/blob/main/banner.jpg)
 
-## Designs and Development
+## Design and Development
 
 I`m Mam Demba Jobarteh from The Gambia, and i do content on Designs and Development.
 I love Python and enjoying coding. I build Desktop Apps and Websites
